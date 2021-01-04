@@ -4,7 +4,7 @@ public class Objective8Lab1 {
 for (int i=1; i <= 10; i += 1){
   System.out.println(i);
 }
-for (int i=10; i >= 0; i-= 1){
+for (int i=10; i >= 1; i-= 1){
   System.out.println(i);
 }
   }
